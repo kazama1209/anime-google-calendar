@@ -1,0 +1,7 @@
+.bundle
+/vendor/bundle
+.ruby-version
+credentials.json
+.env
+codes.zip
+lambda_layers.zip
